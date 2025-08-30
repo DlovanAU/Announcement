@@ -1,5 +1,12 @@
-Hello this is an announcement for Classic Us
+08/30/2025
+Hello this is the first ever announcement for Classic Us
 
+Playtesting should start somewhat in 2 weeks and 3 weeks before launch.
+Dlovan will be contiuning to fix bugs and add some new features & implementations.
+Pietro is gonna try to fix the server side of stuff since it is based on Modding Us
+servers since both Modding Us & Classic Us are connected.
 
+We will also be adding moderations on both projects to keep the game safe and better.
 
-test!
+Thanks for reading!
+- Dlovan
