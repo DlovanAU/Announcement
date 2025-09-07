@@ -1,12 +1,8 @@
-08/30/2025
-Hello this is the first ever announcement for Classic Us
+09/08/2025
+new beta ver should be out soon for other betatesters as well.
+hopefully this helps with fixing more bugs in the meantime with freeplay
+or local still not working lol
 
-Playtesting should start somewhat in 2 weeks and 3 weeks before launch.
-Dlovan will be contiuning to fix bugs and add some new features & implementations.
-Pietro is gonna try to fix the server side of stuff since it is based on Modding Us
-servers since both Modding Us & Classic Us are connected.
+pietro as said will fix the server sided stuff so have fun finding more issues!
 
-We will also be adding moderations on both projects to keep the game safe and better.
-
-Thanks for reading!
 - Dlovan
