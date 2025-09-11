@@ -1,8 +1,11 @@
-09/08/2025
-new beta ver should be out soon for other betatesters as well.
-hopefully this helps with fixing more bugs in the meantime with freeplay
-or local still not working lol
 
-pietro as said will fix the server sided stuff so have fun finding more issues!
+<size=2.5><color=red>Updated: 09/11/2025
+
+<size=1.8><color=white>v2025.9.11 <color=green>(Android Beta 2)<color=white> Should be out now for majority of
+beta testers! hopefully this aims to fix more bugs, let me know!
+
+have fun :D
 
 - Dlovan
+
+<size=2.2><link='https://discord.gg/ApDDJKmANg'><#5CB5FF>Join our discord server! (click)</u></color></link>
