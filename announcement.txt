@@ -1,11 +1,8 @@
 
-<size=2.5><color=red>Updated: 09/11/2025
+<size=2.5><color=red>Updated: 09/11/2025 at 21:41 GMT+2 Time
 
-<size=1.8><color=white>v2025.9.11 <color=green>(Android Beta 2)<color=white> Should be out now for majority of
-beta testers! hopefully this aims to fix more bugs, let me know!
+<size=1.8><color=white>v2025.9.11 <color=green>(Android Beta 3)<color=white> Is out with few
+bug fixes, try.
 
-have fun :D
 
 - Dlovan
-
-im testing.
