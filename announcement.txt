@@ -1,8 +1,11 @@
 
-<size=2.5><color=red>Updated: 09/11/2025 at 21:41 GMT+2 Time
+<size=2.5><color=red>Updated: 09/14/2025 at 21:45 GMT+2 Time
 
-<size=1.8><color=white>v2025.9.11 <color=green>(Android Beta 3)<color=white> Is out with few
-bug fixes, try.
+<size=1.8><color=white>v2025.9.14 <color=green>(Android Public Beta 1)<color=white>IS OUT!!!!
+<size=2>Enjoy finding bugs and make sure to report them to us on our discord server: discord.gg/ApDDJKmANg
 
+you can also @AUADYT channel on video description or with video title just to know that the videos exist.
+
+but anyhow this is getting closer! hopefully we can get it out by october :D
 
 - Dlovan
