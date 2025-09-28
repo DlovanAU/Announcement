@@ -1,10 +1,9 @@
-<size=2.5><color=red>Updated: 09/26/2025 at 12:39AM GMT+2 Time
+<size=2.5><color=red>Updated: 09/28/2025 at 11:22PM GMT+2 Time
 
-<#31F527><size=2.5>Good News!
-<#ffffff><size=1.8>Public Beta 2 should be out by the weekend!
+<#31F527><size=2.5>Public Beta 2 is OUT!
 
-<size=1.6>Online should be working on the next build unless theres more time to work on! Local & Freeplay should work again. I've been working very hard as well to make updates and improvements as well!
+<#ffffff><size=1.7>Enjoy this new version of ClassicUs Public Beta 2!
 
-expect lots of bug fixes coming out and maybe... secrets....? :o.... until then you could always join our discord server that has a custom link now! <#D661FF>discord.gg/auad<#ffffff> for more info!, have a good day!
+While at it, please report more bugs in our github or our <#ff0000>discord server<#ffffff>which is <#9527F5>https://discord.gg/auad<#ffffff> and i hope you enjoy this new version and i would love to see people reviewing it! as always you are welcome to contact us in our social medias!
 
 - Dlovan
