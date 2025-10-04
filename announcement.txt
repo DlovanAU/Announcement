@@ -1,9 +1,9 @@
-<size=2.5><color=red>Updated: 09/28/2025 at 11:22PM GMT+2 Time
+<size=2.5><color=red>Updated: 10/04/2025 at 14:34PM GMT+2 Time
 
-<#31F527><size=2.5>Public Beta 2 is OUT!
+<#FFBB00><size=2.5>About An Update 
 
-<#ffffff><size=1.7>Enjoy this new version of ClassicUs Public Beta 2!
+<#ffffff><size=1.7>An exploit with lots of unity versions was found and i will be updating & publishing an update today for classicus due to this. Because of this Pietro420 has also Updated the servers so it is completely broken right now if you did not notice so please wait for the new release for today (also fixes) coming with 2025.10.4 Public beta 2.1
 
-While at it, please report more bugs in our github or our <#ff0000>discord server<#ffffff>which is <#9527F5>https://discord.gg/auad<#ffffff> and i hope you enjoy this new version and i would love to see people reviewing it! as always you are welcome to contact us in our social medias!
+While at it, please report more bugs in our github or our <#ff0000>discord server<#ffffff> which is <#9527F5>https://discord.gg/auad<#ffffff> and i hope you enjoy this new version and i would love to see people reviewing it! as always you are welcome to contact us in our social medias!
 
 - Dlovan
