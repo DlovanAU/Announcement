@@ -1,8 +1,10 @@
 <size=2.5><color=red>Updated: 10/04/2025 at 14:34PM GMT+2 Time
 
-<#FFBB00><size=2.5>About An Update 
+<#27F5C5><size=2.5>ClassicUs PB2.05 is out!
 
-<#ffffff><size=1.5>An exploit with lots of unity versions was found and i'll be updating & publishing an update today for classicus because of this, Pietro420 has also updated the servers and it is completely broken right now in classicus if you did not notice so please wait for the new release for today (also fixes) coming with 2025.10.4 Public beta 2.1
+<#ffffff><size=1.4>This version focuses on fixing few bugs & text fixes that should show now on the maps properly and update to the newer unity because of the recently announced exploit vulnerability, I have also <#F5E027>Disabled Create Lobby<#ffffff> since that is broken & will need a server update soon on the next release. 
+
+You can now see your region in the <#2765F5>Party!<#ffffff> menu for the upcoming gamemodes next month to ClassicUs which will be MASSIVE.
 
 While at it, please report more bugs in our github or our <#ff0000>discord server<#ffffff> which is <#9527F5>https://discord.gg/auad<#ffffff> and i hope you enjoy this new version and i would love to see people reviewing it! as always you are welcome to contact us in our social medias!
 
